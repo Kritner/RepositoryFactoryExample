@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 namespace RepositoryFactoryExample.Business.Extensions
 {
 
+    /// <summary>
+    /// Extension methods for enums
+    /// </summary>
     public static class EnumExtensions
     {
 
